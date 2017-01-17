@@ -21,5 +21,5 @@ $(document).ready(function(){
 	// text
 	$("#text-example").text(content2);
 
-	// messed up and had to change file to commit
+	// messed up and had to change files to commit
 });
